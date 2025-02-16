@@ -1,2 +1,2 @@
 # github-demo
-<h1>my name is salman</h1>
+<h1>My name is Salman</h1>
